@@ -16,7 +16,7 @@ Our output should include details such as process ID, thread ID, process handler
 
 
 
------ FILES INVOLVED -----
+----- FILES INVOLVED BELOW -----
 
 * msg_box.c -> this file creates our app/process (a message box FAKE warning) and will result in an executable 
 * create_process.c -> this file analyzes our process
