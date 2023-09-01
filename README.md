@@ -4,11 +4,13 @@ Create and then analyze this process
 Using Windows, I am using C to explore "windows.h" (from Win32 API) in order to create my own process and then analyze this process. 
 Our output should include details such as process ID, thread ID, process handler, thread handler etc. 
 
+  
 ----- Please follow the steps below -----
 [1] CREATE OUR APP/PROCESS -> compile "msg_box.c" and choose output executable to be "MALICIOUS_APP.exe" (EXAMPLE: gcc -o MALICIOUS_APP.exe msg_box.c)
 [2] ENTER PATH TO "MALICIOUS_APP.exe" WITHIN "create_process.c"
 [3] COMPILE "create_process.c" -> output executable name of your choosing (EXAMPLE: "gcc create_process.c" would return a.exe)
 [4] RUN APP/EXECUTABLE CREATED ABOVE -> we see a "MALICIOUS_APP.exe" process spawned and analysis printed
+
 
 
 
