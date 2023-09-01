@@ -18,8 +18,8 @@ Our output should include details such as process ID, thread ID, process handler
 
 ----- FILES INVOLVED -----
 
-msg_box.c -> this file creates our app/process (a message box FAKE warning) and will result in an executable 
-create_process.c -> this file analyzes our process
+* msg_box.c -> this file creates our app/process (a message box FAKE warning) and will result in an executable 
+* create_process.c -> this file analyzes our process
 * MALICIOUS_APP.exe -> this is what you name the resulting executable after compiling "msg_box.c"
 * a.exe -> default executables name after compiling "create_process.c"
 
