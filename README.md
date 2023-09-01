@@ -1,8 +1,9 @@
 # create_and_analyze_process
 Create and then analyze this process
 
-Using Windows, I am using C to explore "windows.h" (from Win32 API) in order to create my own process and then analyze this process. 
-Our output should include details such as process ID, thread ID, process handler, thread handler etc. 
+Using Windows specifically... I am using C to explore "windows.h" (from Win32 API) in order to create my own 
+app/program, spawn a process of this and then analyze this process and its data. Our output should include 
+details such as process ID, thread ID, process handler, thread handler etc. 
 
 
   
